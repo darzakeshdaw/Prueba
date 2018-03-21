@@ -5,7 +5,7 @@ public class Persona {
 		super();
 		this.numeroDeTelefono= numeroDeTelefono;
 	}
-
+//Prueba
 	public String getNumeroDeTelefono() {
 		return numeroDeTelefono;
 	}
